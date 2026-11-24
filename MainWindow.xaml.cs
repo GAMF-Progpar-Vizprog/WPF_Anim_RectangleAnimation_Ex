@@ -4,7 +4,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 
-namespace RectangleAnimation
+namespace WPF_Anim_RectangleAnimation_Ex
 {
 	public partial class MainWindow : Window
 	{

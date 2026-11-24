@@ -1,7 +1,7 @@
-﻿<Application x:Class="RectangleAnimation.App"
+﻿<Application x:Class="WPF_Anim_RectangleAnimation_Ex.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:RectangleAnimation"
+             xmlns:local="clr-namespace:WPF_Anim_RectangleAnimation_Ex"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
